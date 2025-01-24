@@ -6,5 +6,8 @@ This repository contains data, Stata scripts, and documentation to replicate our
 2. **Residual Analysis:** Run `02_RET-Trade-Residual-Charts.do`
 3. **Run Main Regression:** Run `02_MainRegression.do`  
 4. 
-5. 
+
+## Outputs
+1. **Residual Graphs** can be found in the [`4_Exhibits`](./4_Exhibits) folder.
+2. 
 
