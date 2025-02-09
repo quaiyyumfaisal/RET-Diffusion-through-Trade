@@ -1,0 +1,9 @@
+This folder contains primary data of the bilateral trade datasets, sourced from ITC Trade Map. 
+
+In this folder, the separate primary datasets of the bilateral trade among countries can be found in two parts for both export and import. 
+
+The ITC Trade Map does not allow for both trade actions (1. import and 2. export) to be downloaded simultaneoulsy. 
+Moreover, the entire duration (25 years) is also divided into two splits while downloading. 
+Hence, each country has in total at best 4 primary datasets in csv format, which were converted to STATA data file (.dta) format and uploaded in this folder. 
+For the users, it is advised to use the '.dta' files because we have cleaned the datasets from the .csv formats and dropped the anomalies,
+and maintained the consistency across the datasets. 
