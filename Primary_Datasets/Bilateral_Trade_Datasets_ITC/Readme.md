@@ -9,6 +9,8 @@ and dropped the anomalies,and maintained the consistency across the datasets. Th
 folder as well. Please note the commit message for the compiled datasets along with the file name where no split number is included. For example, 
 "Malaysia_1st_export.dta" is the 1st split of Malaysia's export but "Malaysia_Draft_Export.dta" is the compiled export dataset of Malaysia. 
 
+Country List:
+
 | Sl.| Country Name                | Sl. | Country Name               | Sl. | Country Name                | Sl. | Country Name                |
 |----|-----------------------------|-----|----------------------------|-----|-----------------------------|-----|-----------------------------|
 | 1  | Afghanistan                 | 50  | Djibouti                   | 99  | Kuwait                      | 148 | Qatar                       |
