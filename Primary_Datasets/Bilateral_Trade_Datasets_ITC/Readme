@@ -6,4 +6,5 @@ The ITC Trade Map does not allow for both trade actions (1. import and 2. export
 Moreover, the entire duration (25 years) is also divided into two splits while downloading. 
 Hence, each country has in total at best 4 primary datasets in csv format, which were converted to STATA data file (.dta) format and uploaded in this folder. 
 For the users, it is advised to use the '.dta' files because we have cleaned the datasets from the .csv formats and dropped the anomalies,
-and maintained the consistency across the datasets. 
+and maintained the consistency across the datasets. The compiled dataset of each trade action for the countries can be found in this folder as well. Please
+note the 
