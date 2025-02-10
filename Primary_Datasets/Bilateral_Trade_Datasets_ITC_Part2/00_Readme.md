@@ -1,4 +1,4 @@
-This folder contains primary data on bilateral trade for countries numbered 100 to 196 (up to Kuwait) from the list in this README file. Additional data can be found in the 'Bilateral_Trade_Datasets_ITC_Part2' folder.
+This folder contains primary data on bilateral trade for countries numbered 100 (Kyrgyzstan) to 196 (Zimbabwe) from the list in this README file. Additional data can be found in the 'Bilateral_Trade_Datasets_ITC_Part2' folder.
 
 In this folder, the separate primary datasets of the bilateral trade among countries can be found in two parts for both export and import. 
 
