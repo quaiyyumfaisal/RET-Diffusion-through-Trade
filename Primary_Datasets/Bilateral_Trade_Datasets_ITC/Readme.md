@@ -1,4 +1,4 @@
-This folder contains primary data of the bilateral trade datasets, sourced from ITC Trade Map. 
+This folder contains primary data on bilateral trade for countries with names starting from A to K, sourced from the ITC Trade Map.
 
 In this folder, the separate primary datasets of the bilateral trade among countries can be found in two parts for both export and import. 
 
