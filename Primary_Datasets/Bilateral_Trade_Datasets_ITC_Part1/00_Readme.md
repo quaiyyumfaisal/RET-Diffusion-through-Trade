@@ -8,7 +8,7 @@ file (.dta) format and uploaded in this folder. For the users, it is advised to 
 and dropped the anomalies,and maintained the consistency across the datasets. The compiled dataset of each trade action for the countries can be found in this 
 folder as well. 
 
-Please note the **compiled datasets** can be identified as the **file name where no split number is included**. 
+Please note that the **compiled datasets** can be identified as the **file name where no split number is included**. 
 
 For example, 
 "Malaysia_1st_export.dta" is the 1st split of Malaysia's export but "Malaysia_Draft_Export.dta" is the compiled export dataset of Malaysia. 
