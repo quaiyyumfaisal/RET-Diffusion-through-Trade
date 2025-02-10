@@ -60,7 +60,7 @@ Country List:
 | 45 | Croatia                     | 94  | Kazakhstan                 | 143 | Paraguay                    | 192 | Venezuela                   |
 | 46 | Cuba                        | 95  | Kenya                      | 144 | Peru                        | 193 | Vietnam                     |
 | 47 | Cyprus                      | 96  | Kiribati                   | 145 | Philippines                 | 194 | Yemen                       |
-| 48 | Czechia                     | 97  | Korea, Dem. People's Rep.  | 146 | Poland                      | 195 | Zambia                      |
+| 48 | Czechia                     | 97  | Korea, Dem. People's Rep. (File Name: KoreaDemRep)  | 146 | Poland                      | 195 | Zambia                      |
 | 49 | Denmark                     | 98  | Korea, Rep.                | 147 | Portugal                    | 196 | Zimbabwe                    |
 
 Note: The parentheses indicate the file name (while downloading) of the country if the country name and the file name differ from each other.
