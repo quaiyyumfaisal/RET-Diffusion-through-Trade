@@ -6,7 +6,7 @@ The ITC Trade Map does not allow for both trade actions (1. import and 2. export
 is also divided into two splits while downloading. Hence, each country has in total at best 4 primary datasets in csv format, which were converted to STATA data 
 file (.dta) format and uploaded in this folder. For the users, it is advised to use the '.dta' files because we have cleaned the datasets from the .csv formats 
 and dropped the anomalies,and maintained the consistency across the datasets. The compiled dataset of each trade action for the countries can be found in this 
-folder as well. Please note the commit message for the compiled datasets along with the file name where no split number is included. For example, 
+folder as well. Please note the *compiled datasets* can be identified as the *file name where no split number is included*. For example, 
 "Malaysia_1st_export.dta" is the 1st split of Malaysia's export but "Malaysia_Draft_Export.dta" is the compiled export dataset of Malaysia. 
 
 Country List:
